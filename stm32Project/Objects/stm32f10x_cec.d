@@ -1,0 +1,14 @@
+.\objects\stm32f10x_cec.o: FWLIB\src\stm32f10x_cec.c
+.\objects\stm32f10x_cec.o: .\FWLIB\inc\stm32f10x_cec.h
+.\objects\stm32f10x_cec.o: .\USER\stm32f10x.h
+.\objects\stm32f10x_cec.o: .\CMSIS\core_cm3.h
+.\objects\stm32f10x_cec.o: F:\wwwQw\ELEpcApp\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_cec.o: .\USER\system_stm32f10x.h
+.\objects\stm32f10x_cec.o: .\USER\stm32f10x_conf.h
+.\objects\stm32f10x_cec.o: .\FWLIB\inc\stm32f10x_dbgmcu.h
+.\objects\stm32f10x_cec.o: .\USER\stm32f10x.h
+.\objects\stm32f10x_cec.o: .\FWLIB\inc\stm32f10x_gpio.h
+.\objects\stm32f10x_cec.o: .\FWLIB\inc\stm32f10x_rcc.h
+.\objects\stm32f10x_cec.o: .\FWLIB\inc\stm32f10x_tim.h
+.\objects\stm32f10x_cec.o: .\FWLIB\inc\stm32f10x_usart.h
+.\objects\stm32f10x_cec.o: .\FWLIB\inc\misc.h

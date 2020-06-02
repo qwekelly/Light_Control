@@ -1,0 +1,14 @@
+.\objects\sys.o: USER\sys.c
+.\objects\sys.o: USER\sys.h
+.\objects\sys.o: USER\stm32f10x.h
+.\objects\sys.o: .\CMSIS\core_cm3.h
+.\objects\sys.o: F:\wwwQw\ELEpcApp\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sys.o: USER\system_stm32f10x.h
+.\objects\sys.o: USER\stm32f10x_conf.h
+.\objects\sys.o: .\FWLIB\inc\stm32f10x_dbgmcu.h
+.\objects\sys.o: .\USER\stm32f10x.h
+.\objects\sys.o: .\FWLIB\inc\stm32f10x_gpio.h
+.\objects\sys.o: .\FWLIB\inc\stm32f10x_rcc.h
+.\objects\sys.o: .\FWLIB\inc\stm32f10x_tim.h
+.\objects\sys.o: .\FWLIB\inc\stm32f10x_usart.h
+.\objects\sys.o: .\FWLIB\inc\misc.h

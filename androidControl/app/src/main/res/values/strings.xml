@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LED</string>
+    <string name="连接">开启连接</string>
+    <string name="ip">IP</string>
+    <string name="端口号">端口号</string>
+    <string name="模式选择">自动模式</string>
+    <string name="模式选择2">手动模式</string>
+    <string name="调亮">调亮</string>
+    <string name="调暗">调暗</string>
+</resources>

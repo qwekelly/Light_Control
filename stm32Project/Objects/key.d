@@ -1,0 +1,16 @@
+.\objects\key.o: USER\key.c
+.\objects\key.o: USER\key.h
+.\objects\key.o: USER\sys.h
+.\objects\key.o: USER\stm32f10x.h
+.\objects\key.o: .\CMSIS\core_cm3.h
+.\objects\key.o: F:\wwwQw\ELEpcApp\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key.o: USER\system_stm32f10x.h
+.\objects\key.o: USER\stm32f10x_conf.h
+.\objects\key.o: .\FWLIB\inc\stm32f10x_dbgmcu.h
+.\objects\key.o: .\USER\stm32f10x.h
+.\objects\key.o: .\FWLIB\inc\stm32f10x_gpio.h
+.\objects\key.o: .\FWLIB\inc\stm32f10x_rcc.h
+.\objects\key.o: .\FWLIB\inc\stm32f10x_tim.h
+.\objects\key.o: .\FWLIB\inc\stm32f10x_usart.h
+.\objects\key.o: .\FWLIB\inc\misc.h
+.\objects\key.o: USER\delay.h
